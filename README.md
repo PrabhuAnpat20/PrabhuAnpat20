@@ -17,7 +17,7 @@
   </ul>
 </div>
 <div align="center">
-  <a href="prabhuanpat.tech">portfolio website</a>
+  <a href="https://prabhuanpat.tech">portfolio website</a>
 </div>
 <!--Intro start-->
 <ul>
@@ -35,7 +35,7 @@
 <p>💬 Love exploring new Technologies</p>
 </li>
 <li>
-<p>📫 Feel free to reach me out <strong><a href="anapatprabhu@gmail.com">anapatprabhu@gmail.com</a></strong></p>
+<p>📫 Feel free to reach me out <strong><a href="https://anapatprabhu@gmail.com">anapatprabhu@gmail.com</a></strong></p>
 </li>
 
 </ul>
